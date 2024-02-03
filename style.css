@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+  }
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    
+  }
+
+  .bg-img{
+    background-image: url("wintage.png");
+    height: 60%;
+    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    fill-opacity: 5;
+  }
+
+  .section3 .bg-img1{
+    background-image: url("wintage.png");
+    height: 20%;
+    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    /* fill-opacity: 5; */
+    opacity: 5;
+    /* filter: blur(6px); */
+  }
+
+  .section8 .bg-img1{
+    background-image: url("wintage.png");
+    height: 40%;
+    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    /* fill-opacity: 5; */
+    opacity: 5;
+    /* filter: blur(6px); */
+  }
